@@ -1,0 +1,22 @@
+[
+    {
+        "package": "ggiplot",
+        "url": "https://github.com/grantmcdermott/ggiplot"
+    },
+    {
+        "package": "lecturenotes",
+        "url": "https://github.com/grantmcdermott/lecturenotes"
+    },
+    {
+        "package": "lfe2fixest",
+        "url": "https://github.com/grantmcdermott/lfe2fixest"
+    },
+    {
+        "package": "parttree",
+        "url": "https://github.com/grantmcdermott/parttree"
+    },
+    {
+        "package": "ritest",
+        "url": "https://github.com/grantmcdermott/ritest"
+    }
+]
