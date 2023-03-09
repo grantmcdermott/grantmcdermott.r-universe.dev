@@ -4,10 +4,6 @@
         "url": "https://github.com/grantmcdermott/etwfe"
     },
     {
-        "package": "ggiplot",
-        "url": "https://github.com/grantmcdermott/ggiplot"
-    },
-    {
         "package": "parttree",
         "url": "https://github.com/grantmcdermott/parttree"
     },
