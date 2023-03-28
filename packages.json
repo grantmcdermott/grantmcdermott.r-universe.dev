@@ -7,10 +7,8 @@
         "package": "ggiplot",
         "url": "https://github.com/grantmcdermott/ggiplot"
     },
-   {
-        "package": "tinysnapshot",
-        "url": "https://github.com/vincentarelbundock/tinysnapshot"
-    },
+
+
     {
         "package": "parttree",
         "url": "https://github.com/grantmcdermott/parttree"
