@@ -7,21 +7,23 @@
         "package": "ggiplot",
         "url": "https://github.com/grantmcdermott/ggiplot"
     },
-
-
-    {
+   {
         "package": "parttree",
         "url": "https://github.com/grantmcdermott/parttree"
     },
-    {
+      {
+        "package": "plot2",
+        "url": "https://github.com/grantmcdermott/plot2"
+    },
+   {
         "package": "ritest",
         "url": "https://github.com/grantmcdermott/ritest"
     },
-    {
+   {
         "package": "lecturenotes",
         "url": "https://github.com/grantmcdermott/lecturenotes"
     },
-    {
+   {
         "package": "lfe2fixest",
         "url": "https://github.com/grantmcdermott/lfe2fixest"
     }
