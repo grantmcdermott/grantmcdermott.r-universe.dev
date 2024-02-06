@@ -12,8 +12,8 @@
         "url": "https://github.com/grantmcdermott/parttree"
     },
       {
-        "package": "plot2",
-        "url": "https://github.com/grantmcdermott/plot2"
+        "package": "tinyplot",
+        "url": "https://github.com/grantmcdermott/tinyplot"
     },
    {
         "package": "ritest",
