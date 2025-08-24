@@ -1,5 +1,9 @@
 [
    {
+        "package": "duckreg",
+        "url": "https://github.com/grantmcdermott/duckreg"
+    },
+   {
         "package": "etwfe",
         "url": "https://github.com/grantmcdermott/etwfe"
     },
@@ -11,7 +15,7 @@
         "package": "parttree",
         "url": "https://github.com/grantmcdermott/parttree"
     },
-      {
+   {
         "package": "tinyplot",
         "url": "https://github.com/grantmcdermott/tinyplot"
     },
