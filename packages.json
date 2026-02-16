@@ -12,6 +12,11 @@
         "url": "https://github.com/grantmcdermott/ggfixest"
     },
    {
+        "package": "jgd",
+        "url": "https://github.com/grantmcdermott/jgd",
+        "subdir": "r-pkg"
+    },
+   {
         "package": "parttree",
         "url": "https://github.com/grantmcdermott/parttree"
     },
